@@ -13,7 +13,7 @@ ChatGPT 기반 영화 추천 기능을 제공하는 Wavve 클론코딩 웹앱
 ***
 &nbsp;
 
-# 🎥 게임영상
+# 🎥 영상
 [![게임 영상](https://img.youtube.com/vi/7UMTDyJAuKY/0.jpg)](https://www.youtube.com/watch?v=7UMTDyJAuKY)
 
 
